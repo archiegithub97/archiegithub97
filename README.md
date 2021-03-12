@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @archiegithub97
 - 👀 I’m interested in problem-solving and artificial intelligence.
-- 🌱 I’m currently learning dynamic programming
+- 🌱 I’m currently learning dynamic programming and web development
 - 💞️ I’m looking to collaborate on NLP and data structures
 - 📫 How to reach me @archiegithub97
 
